@@ -21,5 +21,5 @@
       <div class="from__message--error" *ngIf="formGroup.get(formField.country)?.errors?.['required'] && formGroup.get(formField.country)?.touched">Country is required</div>
 
     </div>
-    <p-button type="submit" [disabled]="!formGroup.valid">Click me</p-button>
+    <p-button type="submit" [disabled]="!formGroup.valid">Print result</p-button>
   </form>
