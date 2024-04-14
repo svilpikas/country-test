@@ -1,0 +1,1742 @@
+{
+    "content": [
+        {
+            "id": 119,
+            "country": "Afghanistan",
+            "code": "AF",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 350,
+            "country": "Åland Islands",
+            "code": "AX",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 121,
+            "country": "Albania",
+            "code": "AL",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 122,
+            "country": "Algeria",
+            "code": "DZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 366,
+            "country": "American Samoa",
+            "code": "AS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 123,
+            "country": "Andorra",
+            "code": "AD",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 125,
+            "country": "Angola",
+            "code": "AO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 124,
+            "country": "Anguilla",
+            "code": "AI",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 126,
+            "country": "Antigua and Barbuda",
+            "code": "AG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 127,
+            "country": "Argentina",
+            "code": "AR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 128,
+            "country": "Armenia",
+            "code": "AM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 129,
+            "country": "Aruba",
+            "code": "AW",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 158,
+            "country": "Ascension Island",
+            "code": "AC",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 130,
+            "country": "Australia",
+            "code": "AU",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 131,
+            "country": "Austria",
+            "code": "AT",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 132,
+            "country": "Azerbaijan",
+            "code": "AZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 135,
+            "country": "Bahrain",
+            "code": "BH",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 138,
+            "country": "Bangladesh",
+            "code": "BD",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 139,
+            "country": "Barbados",
+            "code": "BB",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 140,
+            "country": "Belgium",
+            "code": "BE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 141,
+            "country": "Belize",
+            "code": "BZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 142,
+            "country": "Benin",
+            "code": "BJ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 143,
+            "country": "Bermuda",
+            "code": "BM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 153,
+            "country": "Bhutan",
+            "code": "BT",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 145,
+            "country": "Bolivia",
+            "code": "BO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 408,
+            "country": "Bonaire, Sint Eustatius and Saba",
+            "code": "BQ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 146,
+            "country": "Bosnia and Herzegovina",
+            "code": "BA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 147,
+            "country": "Botswana",
+            "code": "BW",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 148,
+            "country": "Brazil",
+            "code": "BR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 252,
+            "country": "British Virgin Islands",
+            "code": "VG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 149,
+            "country": "Brunei Darussalam",
+            "code": "BN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 150,
+            "country": "Bulgaria",
+            "code": "BG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 151,
+            "country": "Burkina Faso",
+            "code": "BF",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 152,
+            "country": "Burundi",
+            "code": "BI",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 206,
+            "country": "Cambodia",
+            "code": "KH",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 207,
+            "country": "Cameroon",
+            "code": "CM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 208,
+            "country": "Canada",
+            "code": "CA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 343,
+            "country": "Cape Verde",
+            "code": "CV",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 205,
+            "country": "Cayman Islands",
+            "code": "KY",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 156,
+            "country": "Central African Republic",
+            "code": "CF",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 154,
+            "country": "Chad",
+            "code": "TD",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 157,
+            "country": "Chile",
+            "code": "CL",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 213,
+            "country": "China",
+            "code": "CN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 393,
+            "country": "Christmas Island",
+            "code": "CX",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 390,
+            "country": "Cocos Islands",
+            "code": "CC",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 217,
+            "country": "Colombia",
+            "code": "CO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 218,
+            "country": "Comoros",
+            "code": "KM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 219,
+            "country": "Congo",
+            "code": "CG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 226,
+            "country": "Cook Islands",
+            "code": "CK",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 221,
+            "country": "Corsica",
+            "code": "VP",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 223,
+            "country": "Costa Rica",
+            "code": "CR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 224,
+            "country": "Croatia",
+            "code": "HR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 225,
+            "country": "Cuba",
+            "code": "CU",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 353,
+            "country": "Curaçao",
+            "code": "CW",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 214,
+            "country": "Cyprus",
+            "code": "CY",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 155,
+            "country": "Czech Republic",
+            "code": "CZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 220,
+            "country": "Democratic Republic of the Congo",
+            "code": "CD",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 159,
+            "country": "Denmark",
+            "code": "DK",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 165,
+            "country": "Djibouti",
+            "code": "DJ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 161,
+            "country": "Dominica",
+            "code": "DM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 162,
+            "country": "Dominican Republic",
+            "code": "DO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 286,
+            "country": "East Timor",
+            "code": "TL",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 167,
+            "country": "Ecuador",
+            "code": "EC",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 166,
+            "country": "Egypt",
+            "code": "EG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 291,
+            "country": "El Salvador",
+            "code": "SV",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 284,
+            "country": "Equatorial Guinea",
+            "code": "GQ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 168,
+            "country": "Eritrea",
+            "code": "ER",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 169,
+            "country": "Estonia",
+            "code": "EE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 316,
+            "country": "Eswatini",
+            "code": "SZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 170,
+            "country": "Ethiopia",
+            "code": "ET",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 171,
+            "country": "Falkland (Malvinas) Islands",
+            "code": "FK",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 172,
+            "country": "Faroe Islands",
+            "code": "FO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 173,
+            "country": "Fiji",
+            "code": "FJ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 313,
+            "country": "Finland",
+            "code": "FI",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 281,
+            "country": "France",
+            "code": "FR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 282,
+            "country": "French Guiana",
+            "code": "GF",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 283,
+            "country": "French Polynesia",
+            "code": "PF",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 175,
+            "country": "Gabon",
+            "code": "GA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 183,
+            "country": "Georgia",
+            "code": "GE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 341,
+            "country": "Germany",
+            "code": "DE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 178,
+            "country": "Ghana",
+            "code": "GH",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 179,
+            "country": "Gibraltar",
+            "code": "GI",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 160,
+            "country": "Great Britain",
+            "code": "GB",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 180,
+            "country": "Greece",
+            "code": "GR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 182,
+            "country": "Greenland",
+            "code": "GL",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 181,
+            "country": "Grenada",
+            "code": "GD",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 184,
+            "country": "Guadeloupe",
+            "code": "GP",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 185,
+            "country": "Guatemala",
+            "code": "GT",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 387,
+            "country": "Guernsey",
+            "code": "GG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 186,
+            "country": "Guinea",
+            "code": "GN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 144,
+            "country": "Guinea-Bissau",
+            "code": "GW",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 176,
+            "country": "Guyana",
+            "code": "GY",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 187,
+            "country": "Haiti",
+            "code": "HT",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 268,
+            "country": "Holland (Netherlands)",
+            "code": "NL",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 188,
+            "country": "Honduras",
+            "code": "HN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 189,
+            "country": "Hong Kong",
+            "code": "HK",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 339,
+            "country": "Hungary",
+            "code": "HU",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 194,
+            "country": "Iceland",
+            "code": "IS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 190,
+            "country": "India",
+            "code": "IN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 191,
+            "country": "Indonesia",
+            "code": "ID",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 193,
+            "country": "Iran",
+            "code": "IR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 192,
+            "country": "Iraq",
+            "code": "IQ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 120,
+            "country": "Ireland",
+            "code": "IE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 399,
+            "country": "Isle of Man",
+            "code": "IM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 197,
+            "country": "Israel",
+            "code": "IL",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 196,
+            "country": "Italy",
+            "code": "IT",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 163,
+            "country": "Ivory Coast",
+            "code": "CI",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 198,
+            "country": "Jamaica",
+            "code": "JM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 199,
+            "country": "Japan",
+            "code": "JP",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 164,
+            "country": "Jersey",
+            "code": "JE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 201,
+            "country": "Jordan",
+            "code": "JO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 211,
+            "country": "Kazakhstan",
+            "code": "KZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 212,
+            "country": "Kenya",
+            "code": "KE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 216,
+            "country": "Kiribati",
+            "code": "KI",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 222,
+            "country": "Kosovo",
+            "code": "XZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 227,
+            "country": "Kuwait",
+            "code": "KW",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 215,
+            "country": "Kyrgyzstan",
+            "code": "KG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 228,
+            "country": "Laos",
+            "code": "LA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 229,
+            "country": "Latvia",
+            "code": "LV",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 232,
+            "country": "Lebanon",
+            "code": "LB",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 231,
+            "country": "Lesotho",
+            "code": "LS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 233,
+            "country": "Liberia",
+            "code": "LR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 234,
+            "country": "Libya",
+            "code": "LY",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 235,
+            "country": "Liechtenstein",
+            "code": "LI",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 118,
+            "country": "Lithuania",
+            "code": "LT",
+            "isDefault": true,
+            "regions": []
+        },
+        {
+            "id": 236,
+            "country": "Luxembourg",
+            "code": "LU",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 237,
+            "country": "Macao",
+            "code": "MO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 241,
+            "country": "Macedonia",
+            "code": "MK",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 238,
+            "country": "Madagascar",
+            "code": "MG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 243,
+            "country": "Malawi",
+            "code": "MW",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 242,
+            "country": "Malaysia",
+            "code": "MY",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 244,
+            "country": "Maldives",
+            "code": "MV",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 245,
+            "country": "Mali",
+            "code": "ML",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 246,
+            "country": "Malta",
+            "code": "MT",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 374,
+            "country": "Marshall Islands",
+            "code": "MH",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 248,
+            "country": "Martinique",
+            "code": "MQ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 250,
+            "country": "Mauritania",
+            "code": "MR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 249,
+            "country": "Mauritius",
+            "code": "MU",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 240,
+            "country": "Mayotte",
+            "code": "YT",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 251,
+            "country": "Mexico",
+            "code": "MX",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 378,
+            "country": "Micronesia",
+            "code": "FM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 254,
+            "country": "Moldova",
+            "code": "MD",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 255,
+            "country": "Monaco",
+            "code": "MC",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 256,
+            "country": "Mongolia",
+            "code": "MN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 204,
+            "country": "Montenegro",
+            "code": "ME",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 257,
+            "country": "Montserrat",
+            "code": "MS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 247,
+            "country": "Morocco",
+            "code": "MA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 258,
+            "country": "Mozambique",
+            "code": "MZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 253,
+            "country": "Myanmar",
+            "code": "MM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 259,
+            "country": "Namibia",
+            "code": "NA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 262,
+            "country": "Nauru",
+            "code": "NR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 263,
+            "country": "Nepal",
+            "code": "NP",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 269,
+            "country": "Netherlands Antilles",
+            "code": "AN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 260,
+            "country": "New Caledonia",
+            "code": "NC",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 261,
+            "country": "New Zealand",
+            "code": "NZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 266,
+            "country": "Nicaragua",
+            "code": "NI",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 265,
+            "country": "Niger",
+            "code": "NE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 264,
+            "country": "Nigeria",
+            "code": "NG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 386,
+            "country": "Northern Mariana Islands",
+            "code": "MP",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 304,
+            "country": "North Korea",
+            "code": "KP",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 267,
+            "country": "Norway",
+            "code": "NO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 270,
+            "country": "Oman",
+            "code": "OM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 271,
+            "country": "Pakistan",
+            "code": "PK",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 370,
+            "country": "Palau",
+            "code": "PW",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 272,
+            "country": "Palestine",
+            "code": "PS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 273,
+            "country": "Panama",
+            "code": "PA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 274,
+            "country": "Papua New Guinea",
+            "code": "PG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 275,
+            "country": "Paraguay",
+            "code": "PY",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 276,
+            "country": "Peru",
+            "code": "PE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 174,
+            "country": "Philippines",
+            "code": "PH",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 279,
+            "country": "Pitcairn",
+            "code": "PN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 230,
+            "country": "Poland",
+            "code": "PL",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 280,
+            "country": "Portugal",
+            "code": "PT",
+            "isDefault": false,
+            "regions": [
+                {
+                    "id": 14,
+                    "countryId": 280,
+                    "regionCode": "PT",
+                    "name": "Portugal"
+                },
+                {
+                    "id": 17,
+                    "countryId": 280,
+                    "regionCode": "P2",
+                    "name": "Portugal - Azores"
+                },
+                {
+                    "id": 20,
+                    "countryId": 280,
+                    "regionCode": "P3",
+                    "name": "Portugal - Madeira"
+                }
+            ]
+        },
+        {
+            "id": 362,
+            "country": "Puerto Rico",
+            "code": "PR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 210,
+            "country": "Qatar",
+            "code": "QA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 285,
+            "country": "Réunion",
+            "code": "RE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 288,
+            "country": "Romania",
+            "code": "RO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 287,
+            "country": "Rwanda",
+            "code": "RW",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 299,
+            "country": "Saint Kitts and Nevis",
+            "code": "KN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 300,
+            "country": "Saint Lucia",
+            "code": "LC",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 297,
+            "country": "Saint Pierre and Miquelon",
+            "code": "PM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 301,
+            "country": "Saint Vincent and the Grenadines",
+            "code": "VC",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 292,
+            "country": "Samoa",
+            "code": "WS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 293,
+            "country": "San Marino",
+            "code": "SM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 294,
+            "country": "São Tomé and Príncipe",
+            "code": "ST",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 295,
+            "country": "Saudi Arabia",
+            "code": "SA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 290,
+            "country": "SB (NEEDS TRANSLATION)",
+            "code": "SB",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 411,
+            "country": "Scotland",
+            "code": "SS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 298,
+            "country": "Senegal",
+            "code": "SN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 302,
+            "country": "Serbia",
+            "code": "RS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 303,
+            "country": "Serbia and Montenegro",
+            "code": "CS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 296,
+            "country": "Seychelles",
+            "code": "SC",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 305,
+            "country": "Sierra Leone",
+            "code": "SL",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 306,
+            "country": "Singapore",
+            "code": "SG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 414,
+            "country": "Sint Maarten",
+            "code": "SX",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 308,
+            "country": "Slovakia",
+            "code": "SK",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 309,
+            "country": "Slovenia",
+            "code": "SI",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 310,
+            "country": "Somalia",
+            "code": "SO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 277,
+            "country": "South Africa",
+            "code": "ZA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 396,
+            "country": "South Georgia and the South Sandwich Islands",
+            "code": "GS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 278,
+            "country": "South Korea",
+            "code": "KR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 402,
+            "country": "South Sudan",
+            "code": "SP",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 195,
+            "country": "Spain",
+            "code": "ES",
+            "isDefault": false,
+            "regions": [
+                {
+                    "id": 5,
+                    "countryId": 195,
+                    "regionCode": "ES",
+                    "name": "Spain"
+                },
+                {
+                    "id": 8,
+                    "countryId": 195,
+                    "regionCode": "IB",
+                    "name": "Spain - Balearic Islands"
+                }
+            ]
+        },
+        {
+            "id": 209,
+            "country": "Spain - Canary Islands",
+            "code": "IC",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 311,
+            "country": "Sri Lanka",
+            "code": "LK",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 315,
+            "country": "St Helena Island",
+            "code": "SH",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 312,
+            "country": "Sudan",
+            "code": "SD",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 314,
+            "country": "Suriname",
+            "code": "SR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 317,
+            "country": "Sweden",
+            "code": "SE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 318,
+            "country": "Switzerland",
+            "code": "CH",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 307,
+            "country": "Syria",
+            "code": "SY",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 321,
+            "country": "Taiwan",
+            "code": "TW",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 319,
+            "country": "Tajikistan",
+            "code": "TJ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 322,
+            "country": "Tanzania",
+            "code": "TZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 320,
+            "country": "Thailand",
+            "code": "TH",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 134,
+            "country": "The Bahamas",
+            "code": "BS",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 177,
+            "country": "The Gambia",
+            "code": "GM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 323,
+            "country": "Togo",
+            "code": "TG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 356,
+            "country": "Tokelau",
+            "code": "TK",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 324,
+            "country": "Tonga",
+            "code": "TO",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 325,
+            "country": "Trinidad and Tobago",
+            "code": "TT",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 326,
+            "country": "Tristan da Cunha",
+            "code": "TA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 327,
+            "country": "Tunisia",
+            "code": "TN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 328,
+            "country": "Türkiye",
+            "code": "TR",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 329,
+            "country": "Turkmenistan",
+            "code": "TM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 330,
+            "country": "Turks and Caicos Islands",
+            "code": "TC",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 331,
+            "country": "Tuvalu",
+            "code": "TV",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 382,
+            "country": "U.S. Virgin Islands",
+            "code": "VI",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 332,
+            "country": "Uganda",
+            "code": "UG",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 333,
+            "country": "Ukraine",
+            "code": "UA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 203,
+            "country": "United Arab Emirates",
+            "code": "AE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 202,
+            "country": "United States of America",
+            "code": "US",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 334,
+            "country": "Uruguay",
+            "code": "UY",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 335,
+            "country": "Uzbekistan",
+            "code": "UZ",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 336,
+            "country": "Vanuatu",
+            "code": "VU",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 337,
+            "country": "Vatican City",
+            "code": "VA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 338,
+            "country": "Venezuela",
+            "code": "VE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 340,
+            "country": "Vietnam",
+            "code": "VN",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 405,
+            "country": "Wales",
+            "code": "WA",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 342,
+            "country": "Wallis and Futuna",
+            "code": "WF",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 200,
+            "country": "Yemen",
+            "code": "YE",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 344,
+            "country": "Zambia",
+            "code": "ZM",
+            "isDefault": false,
+            "regions": []
+        },
+        {
+            "id": 345,
+            "country": "Zimbabwe",
+            "code": "ZW",
+            "isDefault": false,
+            "regions": []
+        }
+    ],
+    "current": 0,
+    "next": 0,
+    "previous": 0,
+    "total": 1,
+    "elementCount": 243
+}
